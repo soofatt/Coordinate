@@ -1,0 +1,20 @@
+---
+:source:
+  :path: test
+  :file: test_Coordinate.c
+:successes:
+- :test: test_setCoordinate_should_return_proper_coordinates
+  :line: 9
+  :message: ''
+- :test: test_multiplyCoordinate_should_return_proper_multiplied_coordinates
+  :line: 27
+  :message: ''
+:failures: []
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 2
+  :failed: 0
+  :ignored: 0
+:stdout:
+- Line number is 14
